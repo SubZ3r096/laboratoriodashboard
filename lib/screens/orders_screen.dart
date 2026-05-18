@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:data_table_2/data_table_2.dart';
-import '../core/controllers/orders_controller.dart';
-import '../core/models/order.dart';
+import '../controllers/orders_controller.dart';
+import '../models/order.dart';
 import '../core/theme/app_colors.dart';
 import '../widgets/admin_layout.dart';
 

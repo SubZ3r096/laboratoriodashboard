@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:go_router/go_router.dart';
-import '../core/controllers/auth_controller.dart';
+import '../controllers/auth_controller.dart';
 import '../core/theme/app_colors.dart';
 import '../core/utils/constants.dart';
 

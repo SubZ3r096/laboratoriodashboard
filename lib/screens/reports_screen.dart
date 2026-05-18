@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
-import '../core/controllers/reports_controller.dart';
+import '../controllers/reports_controller.dart';
 import '../core/theme/app_colors.dart';
 import '../widgets/admin_layout.dart';
 import '../widgets/bar_chart_widget.dart';

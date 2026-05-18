@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:data_table_2/data_table_2.dart';
 import 'package:intl/intl.dart';
-import '../core/controllers/users_controller.dart';
-import '../core/models/user.dart';
+import '../controllers/users_controller.dart';
+import '../models/user.dart';
 import '../core/theme/app_colors.dart';
 import '../widgets/admin_layout.dart';
 

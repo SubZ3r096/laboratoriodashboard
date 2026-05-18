@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import '../core/controllers/dashboard_controller.dart';
+import '../controllers/dashboard_controller.dart';
 import '../core/theme/app_colors.dart';
 import '../widgets/admin_layout.dart';
 import '../widgets/stat_card.dart';
 import '../widgets/bar_chart_widget.dart';
 import '../widgets/pie_chart_widget.dart';
 import '../widgets/line_chart_widget.dart';
-import '../core/services/mock_data_service.dart';
+import '../services/mock_data_service.dart';
 
 class DashboardScreen extends StatefulWidget {
   const DashboardScreen({super.key});

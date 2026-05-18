@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:intl/intl.dart';
-import '../core/controllers/auth_controller.dart';
+import '../controllers/auth_controller.dart';
 import '../core/theme/app_colors.dart';
-import '../core/services/mock_data_service.dart';
+import '../services/mock_data_service.dart';
 
 class AdminTopbar extends StatelessWidget {
   final VoidCallback onMenuToggle;
